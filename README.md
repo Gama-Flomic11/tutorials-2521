@@ -1,0 +1,1 @@
+To access the tutorial content head to your respective years folder, then go to your class and the tutorial content is updated there.
