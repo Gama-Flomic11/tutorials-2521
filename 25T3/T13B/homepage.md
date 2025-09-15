@@ -1,7 +1,7 @@
 # Tutorial Notes
 
 Tut01
-<!-- [Tut01](tut01/tut01Notes.md) -->
+[Tut01](tut01/tut01Notes.md)
 Tut02
 <!-- [Tut02](tut02/tut02Notes.md) -->
 Tut03
