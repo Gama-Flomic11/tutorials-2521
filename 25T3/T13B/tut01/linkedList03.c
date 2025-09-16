@@ -1,3 +1,7 @@
+// To run copy and use
+// clang linkedList03.c -o linkedList03 
+// ./linkedList03
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -24,6 +28,9 @@ int main(void) {
     // Notice now needs to set the head
     struct list *list = malloc(sizeof(struct list));
     list->head = head;
+
+    viewList(list->head);
+
 
     // We have a list containing 0, 1, 2, 3, 4
     // List delete goes here
@@ -62,8 +69,29 @@ void viewList(struct node *list) {
     printf("X\n");
 }
 
-struct node *listDelete(struct node *list, int value) {
-	// copy and paste the solution in here, you might need to change 
-    // the function declaration all other changes have been made as necessary.
+void listDelete(struct list *list, int value) {
+	// Case 1: List is empty
+	if (list == NULL || list->head == NULL) {
+        return;
+    }
+    // Case 2: First Value
+	if (list->head->value == value) {
+        struct node *tmp = list->head;
+		list->head = list->head->next;
+		free(tmp);
+        return;		
+	// Case 3: Middle Value
+	} else {
+		struct node *curr = list->head;
+		while (curr->next != NULL) {
+			if (curr->next->value == value) {
+					struct node *toDelete = curr->next;
+		      curr->next = toDelete->next;
+	        free(toDelete);
+	        break;
+	    }
+	    curr = curr->next;
+	  }
+  }
 }
 	

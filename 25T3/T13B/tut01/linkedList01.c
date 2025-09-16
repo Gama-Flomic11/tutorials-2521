@@ -1,3 +1,7 @@
+// To run copy and use
+// clang linkedList01.c -o linkedList01 
+// ./linkedList01
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -34,11 +38,20 @@ struct node *createList(struct node *list, int *array, int index, int size) {
 }
 
 int sumListWhile(struct node *list) {
-    // While goes here
-    return 0;
+    int total = 0;
+    struct node *curr = list;
+    while (curr != NULL) {
+        total += curr->value;
+        curr = curr->next;
+    }
+    return total;
 }
 
 int sumListFor(struct node *list) {
-    // For goes here
+    int total = 0;
+    for (struct node *curr = list; curr != NULL; curr = curr->next) {
+        total += curr->value;
+    }
+    return total;
     return 0;
 }

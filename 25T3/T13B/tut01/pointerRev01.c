@@ -1,3 +1,7 @@
+// To run copy and use
+// clang pointerRev01.c -o pointerRev01 
+// ./pointerRev01
+
 #include <stdio.h>
 
 int main(void) {
@@ -17,5 +21,5 @@ int main(void) {
 	pa = pb;
 	*pa = 345;
 
-    printf("%d %d %d\n", a, b, c);
+  printf("%d %d %d\n", a, b, c);
 }

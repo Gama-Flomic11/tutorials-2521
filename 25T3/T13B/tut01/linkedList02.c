@@ -1,3 +1,7 @@
+// To run copy and use
+// clang linkedList02.c -o linkedList02 
+// ./linkedList02
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -55,6 +59,29 @@ void viewList(struct node *list) {
 }
 
 struct node *listDelete(struct node *list, int value) {
-	// Paste code here
+	// Case 1: List is empty
+	if (list == NULL) {
+		return NULL;
+		
+	// Case 2: First element
+	} else if (list->value == value) {
+		struct node *newHead = list->next;
+		free(list);
+		return newHead;
+		
+	// Case 3: Middle Value
+	} else {
+		struct node *curr = list;
+		while (curr->next != NULL) {
+			if (curr->next->value == value) {
+					struct node *toDelete = curr->next;
+		      curr->next = toDelete->next;
+	        free(toDelete);
+	        break;
+	    }
+	    curr = curr->next;
+	  }
+    return list;
+  }
 }
 	
