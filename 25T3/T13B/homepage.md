@@ -12,8 +12,8 @@
 <!-- [Tut05](tut05/tut05Notes.md) -->
 ## Flex Week
 
-## Tut07
-<!-- [Tut07](tut07/tut07Notes.md) -->
+## [Tut07](tut07/tut07Notes.md)
+
 ## Tut08
 <!-- [Tut08](tut08/tut08Notes.md) -->
 ## Tut09
