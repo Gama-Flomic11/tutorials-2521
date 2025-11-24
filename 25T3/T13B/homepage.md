@@ -17,6 +17,6 @@
 ## Tut08
 <!-- [Tut08](tut08/tut08Notes.md) -->
 ## Tut09
-<!-- [Tut09](tut09/tut09Notes.md) -->
-## Tut10
-<!-- [Tut10](tut10/tut10Notes.md) -->
+<!-- [Tut09](tut09/tut09Notes.md) 
+-->
+## [Tut10](tut10/tut10Notes.md)
