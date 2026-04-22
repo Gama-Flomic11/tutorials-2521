@@ -2,4 +2,4 @@ If you know GitHub practices, to access the tutorial content head to your respec
 
 If not follow the links below
 
-[25T3/T13B Home](25T3/T13B/homepage.md)
+[26T1/W13A Home](26T1/W13A/homepage.md)
