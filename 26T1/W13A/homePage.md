@@ -15,7 +15,10 @@ Tut05
 Flex Week
 
 Tut07
-<!-- [Tut07](tut07/tut07Notes.md) -->
+
+[Tut07](../../tutorials/tut07/Tutorial07.md) <br>
+[Tut07pdf](../../tutorials/tut07/Tutorial07.pdf) <br><br>
+
 Tut08
 
 [Tut08](../../tutorials/tut08/Tutorial08.md)<br>
