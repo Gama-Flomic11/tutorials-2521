@@ -28,5 +28,5 @@ Tut09
 <br><br>
 Tut10
 
-<!-- [Tut10markdown](tut10/Tutorial10.md)<br> -->
-<!-- [Tut10pdf](tut10/Tutorial10.pdf) -->
+[Tut10](tut10/Tutorial10.md)<br>
+[Tut10pdf](tut10/Tutorial10.pdf)

@@ -28,5 +28,5 @@ Tut09
 <br><br>
 Tut10
 
-[Tut10markdown](../../tutorials/tut10/Tutorial10.md)<br>
+[Tut10](../../tutorials/tut10/Tutorial10.md)<br>
 [Tut10pdf](../../tutorials/tut10/Tutorial10.pdf)
