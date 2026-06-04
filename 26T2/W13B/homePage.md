@@ -2,7 +2,7 @@
 > Each of these contain both a pdf and a markdown for use after the tutorial with basic answers to the questions, if there are any mistakes please let me know and the toggles will not work, if you are looking for content before the tutorials head to the course website page.
 
 
-Tut01
+Tut01 <br>
 [Tutorial01](tut01/Tutorial01.md)<br>
 [Tut01Code](tut01/Tutorial01Code.md)<br>
 [Tutorial01pdf](tut01/Tutorial01.pdf)<br>
