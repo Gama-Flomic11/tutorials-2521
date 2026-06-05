@@ -3,9 +3,9 @@
 
 
 Tut01 <br>
-[Tutorial01](tut01/Tutorial01.md)<br>
-[Tut01Code](tut01/Tutorial01Code.md)<br>
-[Tutorial01pdf](tut01/Tutorial01.pdf)<br>
+[Tutorial01](../tutorials/tut01/Tutorial01.md)<br>
+[Tut01Code](../tutorials/tut01/Tutorial01Code.md)<br>
+[Tutorial01pdf](../tutorials/tut01/Tutorial01.pdf)<br>
 
 Tut02
 <!-- [Tut02](tut02/tut02Notes.md) -->

@@ -2,8 +2,11 @@
 > Each of these contain both a pdf and a markdown for use after the tutorial with basic answers to the questions, if there are any mistakes please let me know and the toggles will not work, if you are looking for content before the tutorials head to the course website page.
 
 
-Tut01
-<!-- [Tut01](tut01/tut01Notes.md) -->
+Tut01<br>
+[Tutorial01](../tutorials/tut01/Tutorial01.md)<br>
+[Tut01Code](../tutorials/tut01/Tutorial01Code.md)<br>
+[Tutorial01pdf](../tutorials/tut01/Tutorial01.pdf)<br>
+
 Tut02
 <!-- [Tut02](tut02/tut02Notes.md) -->
 Tut03
