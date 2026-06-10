@@ -7,8 +7,10 @@ Tut01 <br>
 [Tut01Code](../tutorials/tut01/Tutorial01Code.md)<br>
 [Tutorial01pdf](../tutorials/tut01/Tutorial01.pdf)<br>
 
-Tut02
-<!-- [Tut02](tut02/tut02Notes.md) -->
+Tut02<br>
+[Tutorial01](../tutorials/tut02/Tutorial02.md)<br>
+[Tut01Code](../tutorials/tut02/Tutorial02Code.md)<br>
+[Tutorial01pdf](../tutorials/tut02/Tutorial02.pdf)<br>
 Tut03
 <!-- [Tut03](tut03/tut03Notes.md) -->
 Tut04
