@@ -11,8 +11,9 @@ Tut02<br>
 [Tutorial02](../../tutorials/tut02/Tutorial02.md)<br>
 [Tut02Code](../../tutorials/tut02/Tutorial02Code.md)<br>
 [Tutorial02pdf](../../tutorials/tut02/Tutorial02.pdf)<br>
-Tut03
-<!-- [Tut03](tut03/tut03Notes.md) -->
+Tut03 <br>
+[Tutorial03](../../tutorials/tut03/Tutorial03.md)<br>
+[Tutorial03pdf](../../tutorials/tut03/Tutorial03.pdf)<br>
 Tut04
 <!-- [Tut04](../../tutorials/tut04/tut04Notes.md) -->
 Tut05
