@@ -14,13 +14,12 @@ Tut02<br>
 Tut03 <br>
 [Tutorial03](../../tutorials/tut03/Tutorial03.md)<br>
 [Tutorial03pdf](../../tutorials/tut03/Tutorial03.pdf)<br>
-Tut04
-<!-- [Tut04](../../tutorials/tut04/tut04Notes.md) -->
-Tut05
-
-<!-- [Tut05](../../tutorials/tut05/Tutorial05.md)<br>
-[Tut05pdf](../../tutorials/tut05/Tutorial05.pdf)<br><br> -->
-
+Tut04<br>
+[Tutorial04](../../tutorials/tut04/Tutorial04.md)<br>
+[Tutorial04pdf](../../tutorials/tut04/Tutorial04.pdf)<br>
+Tut05<br>
+[Tutorial05](../../tutorials/tut05/Tutorial05.md)<br>
+[Tutorial05pdf](../../tutorials/tut05/Tutorial05.pdf)<br>
 Flex Week
 
 Tut07
