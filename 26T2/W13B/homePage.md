@@ -1,5 +1,5 @@
 # Tutorial Notes
-> Each of these contain both a pdf and a markdown for use after the tutorial with basic answers to the questions, if there are any mistakes please let me know and the toggles will not work, if you are looking for content before the tutorials head to the course website page.
+> Each of these contain both a pdf and a markdown for use after the tutorial with basic answers to the questions, if there are any mistakes please let me know and the toggles will not work, if you are looking for content before the tutorials head to the course website page. These notes are based in it's entirety on the tutorial notes for the course COMP2521 found on the course website.
 
 
 Tut01 <br>
