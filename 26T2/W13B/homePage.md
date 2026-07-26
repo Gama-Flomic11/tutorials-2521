@@ -29,8 +29,9 @@ Tut07
 
 Tut08
 
-<!-- [Tut08](../../tutorials/tut08/Tutorial08.md)<br>
-[Tut08pdf](../../tutorials/tut08/Tutorial08.pdf)<br><br> -->
+[Tut08](../../tutorials/tut08/Tutorial08.md)<br>
+[Tut08pdf](../../tutorials/tut08/Tutorial08.pdf)<br><br>
+
 Tut09
 
 <!-- [Tut09](../../tutorials/tut09/Tutorial09.md) -->
