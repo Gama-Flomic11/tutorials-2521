@@ -38,8 +38,8 @@ Tut09
 [Tut09pdf](../../tutorials/tut09/Tutorial09.pdf)
 <br><br>
 Tut10
-<!-- 
+
 [Tut10](../../tutorials/tut10/Tutorial10.md)<br>
-[Tut10pdf](../../tutorials/tut10/Tutorial10.pdf) -->
+[Tut10pdf](../../tutorials/tut10/Tutorial10.pdf)
 
 

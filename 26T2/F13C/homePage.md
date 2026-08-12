@@ -31,13 +31,13 @@ Tut08
 [Tut08pdf](../../tutorials/tut08/Tutorial08.pdf)<br><br>
 
 Tut09
-<!-- [Tut09](../../tutorials/tut09/Tutorial09.md)
+[Tut09](../../tutorials/tut09/Tutorial09.md)
 <br>
-[Tut09pdf](../../tutorials/tut09/Tutorial09.pdf) -->
+[Tut09pdf](../../tutorials/tut09/Tutorial09.pdf)
 <br><br>
 Tut10
 
-<!-- [Tut10](../../tutorials/tut10/Tutorial10.md)<br>
-[Tut10pdf](../../tutorials/tut10/Tutorial10.pdf) -->
+[Tut10](../../tutorials/tut10/Tutorial10.md)<br>
+[Tut10pdf](../../tutorials/tut10/Tutorial10.pdf)
 
 
