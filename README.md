@@ -2,5 +2,7 @@ If you know GitHub practices, to access the tutorial content head to your respec
 
 If not follow the links below
 
-[26T2/W13B Home](26T2/W13B/homePage.md)<br>
-[26T2/F13C Home](26T2/F13C/homePage.md)
+
+
+<!-- [26T2/W13B Home](26T2/W13B/homePage.md)<br>
+[26T2/F13C Home](26T2/F13C/homePage.md) -->
